@@ -1,0 +1,25 @@
+In your browser open
+https://remix.ethereum.org/
+if you are opening it first time there will be bunch of instruction proceed them
+Click on the contracts folder in the folder tree and inside upload the file
+upload this cantokitties.sol file in your remix browser
+solidity logo reprents the compiler 
+tick the auto compiler and in advance configurations enable optimization to true and runs 200
+the ethereum logo represnts the deploy section
+select the envoirment injected provider it will be connected to your metamask account make sure the network id
+CANTO Mainnet = 7700
+CANTO Testnet = 740
+ETHEREUM = 1
+Goerli = 4
+CONTRACT (Compiled by Remix)
+Search for CantoKitties.sol
+select
+in the deploy tab click the arrow key down
+Now put the values
+Contract Name
+Contract Symbol
+Base URI Revealed
+Base URI unrevealed // make sure to put hidden.json
+then click the transact button to deploy your contract
+
+after deployement you can see all the read and write params in the below tab
