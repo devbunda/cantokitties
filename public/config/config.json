@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xBFf0A1761c57bAcaB7F955e6248c1316437b9bAa",
+  "SCAN_LINK": "https://testnet-explorer.canto.neobase.one/address/0xBFf0A1761c57bAcaB7F955e6248c1316437b9bAa",
+  "NETWORK": {
+    "NAME": "CANTO",
+    "SYMBOL": "CANTO",
+    "ID": 740
+  },
+  "NFT_NAME": "CantoKitties",
+  "SYMBOL": "CKS",
+  "MAX_SUPPLY": 3333,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 200000,
+  "MAX_PER_TX": 5,
+  "MARKETPLACE": "AltoBuild",
+  "MARKETPLACE_LINK": "https://alto.build/",
+  "Discord": "https://",
+  "Whitepaper": "https://",
+  "SHOW_BACKGROUND": true
+}

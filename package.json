@@ -1,0 +1,48 @@
+{
+  "name": "cantokitties",
+  "version": "1.0.0",
+  "description": "3D Kitties on Canto Chain",
+  "private": true,
+  "dependencies": {
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "all": "^0.0.0",
+    "ethers": "^5.5.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "rsuite": "^5.10.0",
+    "sourcemap-codec": "^1.4.8",
+    "styled-components": "^5.3.0",
+    "web-vitals": "^1.0.1",
+    "vercel": "^28.15.1",
+    "wagmi": "^0.6.2",
+    "walletconnect": "^1.7.8",
+    "walletlink": "^2.5.0",
+    "web3": "^1.5.1",
+    "web3-eth-contract": "^1.5.2",
+    "web3-provider": "^1.0.0",
+    "web3modal": "^1.9.8"
+  },
+  "author": "memonadil",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
